@@ -4,6 +4,6 @@ A continuación identificamos los elementos de la navegación de la página web 
 
 ![Sin titulo](../images/breather_global.png)
 
-![Sin titulo](../images/breather_filtrada.JPG)
+![Sin titulo](../images/breather_filtrada.jpg)
 
 ![Sin titulo](../images/breather_localinline.png)
